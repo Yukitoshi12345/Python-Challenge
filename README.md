@@ -24,8 +24,8 @@ Through these challenges, the Python Challenge project demonstrated the power of
     - The total number of months included in the dataset
     - The net total amount of "Profit/Losses" over the entire period
     - The changes in "Profit/Losses" over the entire period, and then the average of those changes
-    - The greatest increase in pro ts (date and amount) over the entire period
-    - The greatest decrease in pro ts (date and amount) over the entire period
+    - The greatest increase in profits (date and amount) over the entire period
+    - The greatest decrease in profits (date and amount) over the entire period
 ```
 
 <b> PyPoll Criteria: </b>
